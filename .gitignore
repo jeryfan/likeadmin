@@ -1,0 +1,6 @@
+.fleet
+.idea
+env.production
+.vscode
+.DS_Store
+**/__pycache/
